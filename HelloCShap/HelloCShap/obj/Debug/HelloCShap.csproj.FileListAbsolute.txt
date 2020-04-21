@@ -1,0 +1,10 @@
+C:\Users\robocap\source\repos\HelloCShap\HelloCShap\bin\Debug\HelloCShap.exe.config
+C:\Users\robocap\source\repos\HelloCShap\HelloCShap\bin\Debug\HelloCShap.exe
+C:\Users\robocap\source\repos\HelloCShap\HelloCShap\bin\Debug\HelloCShap.pdb
+C:\Users\robocap\source\repos\HelloCShap\HelloCShap\obj\Debug\HelloCShap.csprojAssemblyReference.cache
+C:\Users\robocap\source\repos\HelloCShap\HelloCShap\obj\Debug\HelloCShap.Form1.resources
+C:\Users\robocap\source\repos\HelloCShap\HelloCShap\obj\Debug\HelloCShap.Properties.Resources.resources
+C:\Users\robocap\source\repos\HelloCShap\HelloCShap\obj\Debug\HelloCShap.csproj.GenerateResource.cache
+C:\Users\robocap\source\repos\HelloCShap\HelloCShap\obj\Debug\HelloCShap.csproj.CoreCompileInputs.cache
+C:\Users\robocap\source\repos\HelloCShap\HelloCShap\obj\Debug\HelloCShap.exe
+C:\Users\robocap\source\repos\HelloCShap\HelloCShap\obj\Debug\HelloCShap.pdb
